@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/openmindconnect/97f1c952-28c5-44ce-b82d-433d9aa5236a/871d79a0-240e-4b73-8b43-a9433092cf80/_apis/work/boardbadge/3b267b17-b39c-4d97-8727-c25c496a156b)](https://dev.azure.com/openmindconnect/97f1c952-28c5-44ce-b82d-433d9aa5236a/_boards/board/t/871d79a0-240e-4b73-8b43-a9433092cf80/Microsoft.RequirementCategory)
